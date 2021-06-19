@@ -16,3 +16,50 @@ cd saycheese
 bash saycheese
 ```
 
+
+## HOW TO USE (Kali Linux/Termux):
+``` 
+## Type This Command :
+
+-> apt update
+
+-> apt upgrade
+
+-> pkg install git
+
+-> pkg insatll wget
+
+-> pkg insatll php
+
+-> pkg insatll openssl
+
+-> pkg insatll curl
+
+-> pkg install python
+
+-> pkg install python2
+
+-> apt install perl
+
+-> pip insatll requests
+
+-> git clone https://github.com/dklagadhir/saycheese
+
+-> ls
+
+-> cd saycheese
+
+-> chmod +x *
+
+-> bash saycheese.sh
+
+-> option 2
+
+-> (*must turn on your hotsport)
+
+-> you resived one link that link send your frined and when he/she open this you resived one file 
+
+-> ls(shw file like .png/.jpg)
+
+-> termux-open *filename 
+
