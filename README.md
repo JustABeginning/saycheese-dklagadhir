@@ -63,3 +63,4 @@ bash saycheese
 
 -> termux-open *filename 
 
+THANK YOU...
